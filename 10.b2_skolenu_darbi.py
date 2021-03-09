@@ -13,7 +13,7 @@
 7 	Siïiòð Deniss
 
 8 	Skodorovs Vlads
-
+print(sin(radians(30)+fmod(13,2)))
 9 	Smirnovs Volodars
 
 10 	Verþanovskis Marks
