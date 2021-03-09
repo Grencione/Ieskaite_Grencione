@@ -23,4 +23,4 @@
 12 	Zariòð Roberts
 
 13 	Þaravins Kirills
-
+print(sin(radians(30)+fmod(13,2)))
