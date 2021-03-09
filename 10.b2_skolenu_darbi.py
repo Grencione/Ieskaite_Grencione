@@ -1,7 +1,7 @@
 1 	Kudrjavceva Veronika
 
 2 	Melnic Ana
-
+print(sin(radians(30)+fmod(13,2)))
 3 	Mihailovs Alekss
 
 4 	Orlova Katerina
