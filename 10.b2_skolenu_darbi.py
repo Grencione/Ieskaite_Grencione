@@ -11,7 +11,7 @@
 6 	Sidorenko Aleksandrs
 
 7 	Siïiòð Deniss
-
+    #print(sin(radians(30)+fmod(13,2)))
 8 	Skodorovs Vlads
 
 9 	Smirnovs Volodars
