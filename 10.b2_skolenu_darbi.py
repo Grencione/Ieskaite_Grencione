@@ -5,7 +5,7 @@
 3 	Mihailovs Alekss
 
 4 	Orlova Katerina
-
+print(sin(radians(30)+fmod(13,2)))
 5 	Rimare Sabîne
 
 6 	Sidorenko Aleksandrs
