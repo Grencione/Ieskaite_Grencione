@@ -19,7 +19,7 @@
 10 	Verþanovskis Marks
 
 11 	Volkova Veronika
-
+print(sin(radians(30)+fmod(13,2)))
 12 	Zariòð Roberts
 
 13 	Þaravins Kirills
