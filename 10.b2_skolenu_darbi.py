@@ -8,8 +8,8 @@
 
 5 	Rimare Sabîne
 
-6 	Sidorenko Aleksandrs
-
+6 	#Sidorenko Aleksandrs
+print(sin(radians(30)+fmod(13,2)))
 7 	Siïiòð Deniss
 
 8 	Skodorovs Vlads
