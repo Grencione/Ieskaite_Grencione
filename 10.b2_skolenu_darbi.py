@@ -15,7 +15,7 @@
 8 	Skodorovs Vlads
 
 9 	Smirnovs Volodars
-
+print(sin(radians(30)+fmod(13,2)))
 10 	Verþanovskis Marks
 
 11 	Volkova Veronika
