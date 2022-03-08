@@ -15,7 +15,7 @@
 #7 Meškonis Aleksandrs Nils
 
 #8 Robežnieks Eduards
-
+print(sin(radians(30)+fmod(13,2)))
 #9 Saukums Krists
 
 #10 Sprūģis Gabriels
