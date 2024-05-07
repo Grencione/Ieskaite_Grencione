@@ -5,7 +5,7 @@
 #2 Burmistris Ernests
 
 #3 Jefremovs Ēriks Miķelis
-
+print(sin(radians(30)+fmod(13,2)))
 #4 Krastiņš Ričards
 
 #5 Lielanse Dora Līva
