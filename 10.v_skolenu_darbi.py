@@ -9,6 +9,6 @@
 #4 Krastiņš Ričards
 
 #5 Lielanse Dora Līva
-
+print(sin(radians(30)+fmod(13,2)))
 #6 Stramkale Emīlija
 
