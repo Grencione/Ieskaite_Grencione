@@ -11,4 +11,4 @@
 #5 Lisovskis Ričards
 
 #6 Līberts Emīls
-
+print(sin(radians(30)+fmod(13,2)))
